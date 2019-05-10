@@ -1,0 +1,11 @@
+D:\FunProjects\GetImageLinkz\GetImageLinkz\bin\Debug\netcoreapp2.1\GetImageLinkz.deps.json
+D:\FunProjects\GetImageLinkz\GetImageLinkz\bin\Debug\netcoreapp2.1\GetImageLinkz.runtimeconfig.json
+D:\FunProjects\GetImageLinkz\GetImageLinkz\bin\Debug\netcoreapp2.1\GetImageLinkz.runtimeconfig.dev.json
+D:\FunProjects\GetImageLinkz\GetImageLinkz\bin\Debug\netcoreapp2.1\GetImageLinkz.dll
+D:\FunProjects\GetImageLinkz\GetImageLinkz\obj\Debug\netcoreapp2.1\GetImageLinkz.csprojAssemblyReference.cache
+D:\FunProjects\GetImageLinkz\GetImageLinkz\obj\Debug\netcoreapp2.1\GetImageLinkz.csproj.CoreCompileInputs.cache
+D:\FunProjects\GetImageLinkz\GetImageLinkz\obj\Debug\netcoreapp2.1\GetImageLinkz.AssemblyInfoInputs.cache
+D:\FunProjects\GetImageLinkz\GetImageLinkz\obj\Debug\netcoreapp2.1\GetImageLinkz.AssemblyInfo.cs
+D:\FunProjects\GetImageLinkz\GetImageLinkz\bin\Debug\netcoreapp2.1\GetImageLinkz.pdb
+D:\FunProjects\GetImageLinkz\GetImageLinkz\obj\Debug\netcoreapp2.1\GetImageLinkz.dll
+D:\FunProjects\GetImageLinkz\GetImageLinkz\obj\Debug\netcoreapp2.1\GetImageLinkz.pdb
